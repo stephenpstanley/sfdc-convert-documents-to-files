@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Doc2File_LoggerServiceTest</members>
+        <members>Doc2File_LoggerService</members>
+        <members>Doc2File_EmailServiceTest</members>
         <members>Doc2File_ConvertDocsToFilesBatchable</members>
         <members>Doc2File_ConvertDocsToFilesBatchableTest</members>
         <members>Doc2File_CreateLibrariesBatchable</members>
